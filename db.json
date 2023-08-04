@@ -1,0 +1,60 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "text": "json-server"
+    },
+    {
+      "text": "Anbu",
+      "id": 2
+    },
+    {
+      "text": "Raj",
+      "id": 3
+    },
+    {
+      "text": "New Item",
+      "id": 4
+    },
+    {
+      "text": "New Item",
+      "id": 5
+    },
+    {
+      "text": "New Item",
+      "id": 6
+    },
+    {
+      "text": "New Item",
+      "id": 7
+    },
+    {
+      "text": "New Item",
+      "id": 8
+    },
+    {
+      "text": "New Item",
+      "id": 9
+    },
+    {
+      "text": "Error Test",
+      "id": 10
+    },
+    {
+      "text": "New Item",
+      "id": 11
+    },
+    {
+      "text": "New Item",
+      "id": 12
+    },
+    {
+      "text": "New Item",
+      "id": 13
+    },
+    {
+      "text": "Mock Test",
+      "id": 14
+    }
+  ]
+}
